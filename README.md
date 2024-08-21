@@ -11,8 +11,10 @@ I'm a full stack software engineer with a passion for creating user-friendly app
 - Advanced database design
 
 ### 🔭 Projects:
-- **Tumblr Clone:** Features comments, likes, follows, and search.
-- **Meetup Clone:** Replicates the core functionality of Meetup with group creation, event management, and more.
+- **Tumblr Clone(Solo project):** Features blogs, comments, likes, follows, tags, search and chat.
+- **Bandcamp(Group project):** Replicates the core functionality of Bandcamp with album creation, reviews, wishlist, collection, and more.
+- **Airbnb Clone(Solo project):** Features booking, creating, updating, and more.
+- **Meetup Clone(Solo project):** Replicates the core functionality of Meetup with group creation, event management, and more.
 
 ### 💬 Find me on:
 - [LinkedIn]www.linkedin.com/in/mengxuanliang
