@@ -3,7 +3,7 @@ I'm a full stack software engineer with a passion for creating user-friendly app
 ### 🚀 Technologies:
 - Frontend: React, Vite
 - Backend: Flask, Node.js, Sequelize
-- Databases: SQLAlchemy, DBML
+- Databases: SQLAlchemy
 - DevOps: Git, Docker
 
 ### 🌱 Currently Learning:
