@@ -1,4 +1,4 @@
-I'm a full stack software engineer with a passion for creating user-friendly applications and enhancing digital experiences. After spending 5 years in early childhood education, and 1 year in digital art, I've transitioned to tech, bringing a unique perspective on user experience and design.
+I'm a full stack software engineer with a passion for creating user-friendly applications and enhancing digital experiences. After spending 5 years in early childhood education and 1 year in digital art, I've transitioned to tech, bringing a unique perspective on user experience and design.
 
 ### 🚀 Technologies:
 - Frontend: React, Vite
